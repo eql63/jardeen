@@ -41,6 +41,8 @@ In this POC, only 3 test cases were automated:
 
 ## Dataset
 
-Datasets are located in the jdd.py file in dictionary form. Each test case has a list of datasets. Datasets are defined by the variables to be tested and the expected result. For example, a dataset "login_KO" will contain credentials login = "ko", password = "ko" and an "expected" variable = False, as the test is expected to fail with this dataset. 
+Datasets are located in the jdd.py file in dictionary form. Each test case has a list of datasets. Datasets are defined by the variables to be tested and the expected result. 
+
+For example, a dataset __login_KO__ will contain credentials login = "ko", password = "ko" and an "expected" variable = False, as the test is expected to fail with this dataset. 
 
 A "fail_id" dataset has been deliberately included in the list of datasets in test case adp-01 for demonstration purposes. This means that an expected result different from the "expected" variable will be obtained.
