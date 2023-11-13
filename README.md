@@ -28,7 +28,7 @@ Install requirements :
 ```
 Note: use virtual environments such as VENV
 
-### Third étape : test case execution
+### Third step : test case execution
 Automated test cases use the same names as on Squash. For example, if you want to run the ADP-01 test case present on Squash, you need to enter the following command:
 ```bash
   python adp-01.py
