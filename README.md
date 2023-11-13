@@ -7,7 +7,8 @@ This repository houses a collection of automation scripts dedicated to test case
 
 ## Demo
 
-![Uploading gif_projet_4_demo.gif…]()
+![gif_projet_4_demo](https://github.com/eql63/jardeen/assets/150632054/851dee1e-fe87-44fa-8859-179b32d1f48e)
+
 
 
 ## How to use it
